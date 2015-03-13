@@ -1,0 +1,1 @@
+JChorus allows you to manage the pieces performed in an event (concert, musical or religious celebration elevation). JChorus allows you to print the song list, print the lyrics to the song, create your presentation with the lyrics from songs to be shown, save the event and manage a calendar of events.
